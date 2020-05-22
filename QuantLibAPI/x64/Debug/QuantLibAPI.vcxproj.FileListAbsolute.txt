@@ -1,0 +1,1 @@
+C:\Users\didik\Source\Repos\QuantLibAPI\QuantLibAPI\x64\Debug\QuantLibAPI.vcxproj.CopyComplete

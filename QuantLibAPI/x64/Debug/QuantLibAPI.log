@@ -1,0 +1,3 @@
+﻿  Service.cpp
+C:\Users\didik\Source\Repos\QuantLibAPI\QuantLibAPI\Service.cpp(135,36): warning C4101: 'e': unreferenced local variable
+  QuantLibAPI.vcxproj -> C:\Users\didik\Source\Repos\QuantLibAPI\x64\Debug\QuantLibAPI.exe

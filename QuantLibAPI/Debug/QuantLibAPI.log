@@ -1,0 +1,4 @@
+﻿  QuantLibAPI.cpp
+  Service.cpp
+C:\Users\didik\Source\Repos\QuantLibAPI\QuantLibAPI\Service.cpp(4,10): fatal error C1083: Cannot open include file: 'ql/quantlib.hpp': No such file or directory
+  Generating Code...
