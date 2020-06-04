@@ -5,4 +5,4 @@ https://www.quantlib.org/install/vc10.shtml
 
 
 
-Jeżeli projek zostanie uruchomiony z wykorzystaniem pakietu Visual Studio,  zmian w konfiguracji. 
+Jeżeli projek zostanie uruchomiony z wykorzystaniem pakietu Visual Studio, nie wymaga dodatkowych zmian w konfiguracji. 
